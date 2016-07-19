@@ -1,0 +1,85 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-image:url("img/lake.jpg");
+}
+div {
+	border-radius: 10px;
+	height: 100%;
+}
+.intro {
+	width: 100%;
+	height: 100%;
+}
+header {
+	position: absolute;
+    top: 5px;
+    bottom: ;
+    right: ;
+    left: ;
+    font-size: 20px;
+    color: #BEECD6;
+}
+.summary {
+	background: rgba(236,202,195,.3);
+	position: relative;
+	top: ;
+	bottom: ;
+	right: ;
+	left: 50%;
+	width: 50%;
+}
+.preamble {
+	background: rgba(236,202,195,.3);
+	width: 100%;
+	height: 100%;
+}
+.main {
+	background: rgba(236,202,195,.3);
+	width: 100%;
+	height: 100%;
+}
+.explanation {
+	background: rgba(236,202,195,.3);
+	width: 100%;
+	height: 100%;
+}
+.participation {
+	background: rgba(236,202,195,.3);
+	width: 100%;
+	height: 100%;
+}
+.benefits {
+	background: rgba(236,202,195,.3);
+	width: 100%;
+	height: 100%;
+}
+.requirements {
+	background: rgba(236,202,195,.3);
+	width: 100%;
+	height: 100%;
+}
+footer {
+	clear: both;
+	position: relative;
+	top: ;
+	bottom: 20%;
+	right: ;
+	left: ;
+	width: ;
+}
+#design-selection {
+	float: left;
+}
+.design-selection {
+	position: center;
+}
+.design-archives {
+	position: right;
+}
+.zen-resources {
+	position: right;
+	right: 20%;
+}
